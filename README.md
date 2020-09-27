@@ -1,0 +1,1 @@
+# Basic Lottery - Ethereum Smart Contract (Solidity)
