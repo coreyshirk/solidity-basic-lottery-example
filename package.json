@@ -1,0 +1,27 @@
+{
+  "name": "solidity-basic-lottery-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coreyshirk/inbox-solidity-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coreyshirk/inbox-solidity-example/issues"
+  },
+  "homepage": "https://github.com/coreyshirk/inbox-solidity-example#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "ganache-cli": "6.10.2",
+    "mocha": "8.1.3",
+    "solc": "0.4.25",
+    "truffle-hdwallet-provider": "0.0.3",
+    "web3": "1.0.0-beta.26"
+  }
+}
